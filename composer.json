@@ -1,0 +1,32 @@
+{
+    "name": "mrholek/coreui.io",
+    "description": "Open Source Bootstrap Admin Template",
+    "homepage": "http://coreui.io",
+    "keywords": [
+        "Bootstrap",
+        "Admin",
+        "Template",
+        "Open",
+        "Source",
+        "AngularJS",
+        "Angular",
+        "Angular2",
+        "jQuery",
+        "CSS",
+        "HTML",
+        "RWD",
+        "Dashboard",
+        "Vue",
+        "Vue.js",
+        "Vuejs",
+        "React",
+        "React.js",
+        "Reactjs"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Łukasz Holeczek"
+        }
+    ]
+}
